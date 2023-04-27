@@ -17,7 +17,7 @@ function NewsLatest() {
 	} = useNewsLatest();
 	console.log(latestList);
 	return (
-		// hidden sm:block
+	
 		<div className="w-[calc(100%)] sm:w-[calc(75%)] sm:ml-[calc(2%)] mt-[16px]">
 			<p className="text-[24px] font-medium">Tin mới nhất</p>
 			<div className="flex flex-wrap flex-col lg:flex-row justify-between mt-[1rem]">
