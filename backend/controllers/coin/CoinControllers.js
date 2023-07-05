@@ -432,6 +432,6 @@ module.exports = {
 	getCoinReference,
 	getCoinFollowOffline,
 	// userFollowCoins,
-	// userUnfollowCoins,
+	// userUnfollowCoins,coin coin coin
 	// updateViewAndScore,
 };

@@ -36,3 +36,4 @@ export const useChartPetrol = (days) => {
 	});
 	// return getlistQuery;
 };
+console.log('petrol');
